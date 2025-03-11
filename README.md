@@ -195,5 +195,3 @@ In epidemic-specific queries, the system:
 ## Contributors
 - **Harmandeep Singh** ([@Harman717](https://github.com/Harman717))
 - **Simardeep Singh** ([@Simar710](https://github.com/Simar710))
-
----
